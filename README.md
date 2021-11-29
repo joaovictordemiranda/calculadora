@@ -1,2 +1,3 @@
 # calculadora
- Calculadora com Python e Usando Tkinter
+ Calculadora com Python, Usando Biblioteca Tkinter
+
